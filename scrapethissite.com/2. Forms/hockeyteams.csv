@@ -1,0 +1,583 @@
+name,year,pct
+Boston Bruins,1990,0.55
+Buffalo Sabres,1990,0.388
+Calgary Flames,1990,0.575
+Chicago Blackhawks,1990,0.613
+Detroit Red Wings,1990,0.425
+Edmonton Oilers,1990,0.463
+Hartford Whalers,1990,0.388
+Los Angeles Kings,1990,0.575
+Minnesota North Stars,1990,0.338
+Montreal Canadiens,1990,0.487
+New Jersey Devils,1990,0.4
+New York Islanders,1990,0.312
+New York Rangers,1990,0.45
+Philadelphia Flyers,1990,0.412
+Pittsburgh Penguins,1990,0.512
+Quebec Nordiques,1990,0.2
+St. Louis Blues,1990,0.588
+Toronto Maple Leafs,1990,0.287
+Vancouver Canucks,1990,0.35
+Washington Capitals,1990,0.463
+Winnipeg Jets,1990,0.325
+Boston Bruins,1991,0.45
+Buffalo Sabres,1991,0.388
+Calgary Flames,1991,0.388
+Chicago Blackhawks,1991,0.45
+Detroit Red Wings,1991,0.537
+Edmonton Oilers,1991,0.45
+Hartford Whalers,1991,0.325
+Los Angeles Kings,1991,0.438
+Minnesota North Stars,1991,0.4
+Montreal Canadiens,1991,0.512
+New Jersey Devils,1991,0.475
+New York Islanders,1991,0.425
+New York Rangers,1991,0.625
+Philadelphia Flyers,1991,0.4
+Pittsburgh Penguins,1991,0.487
+Quebec Nordiques,1991,0.25
+San Jose Sharks,1991,0.212
+St. Louis Blues,1991,0.45
+Toronto Maple Leafs,1991,0.375
+Vancouver Canucks,1991,0.525
+Washington Capitals,1991,0.562
+Winnipeg Jets,1991,0.412
+Boston Bruins,1992,0.607
+Buffalo Sabres,1992,0.452
+Calgary Flames,1992,0.512
+Chicago Blackhawks,1992,0.56
+Detroit Red Wings,1992,0.56
+Edmonton Oilers,1992,0.31
+Hartford Whalers,1992,0.31
+Los Angeles Kings,1992,0.464
+Minnesota North Stars,1992,0.429
+Montreal Canadiens,1992,0.571
+New Jersey Devils,1992,0.476
+New York Islanders,1992,0.476
+New York Rangers,1992,0.405
+Ottawa Senators,1992,0.119
+Philadelphia Flyers,1992,0.429
+Pittsburgh Penguins,1992,0.667
+Quebec Nordiques,1992,0.56
+San Jose Sharks,1992,0.131
+St. Louis Blues,1992,0.44
+Tampa Bay Lightning,1992,0.274
+Toronto Maple Leafs,1992,0.524
+Vancouver Canucks,1992,0.548
+Washington Capitals,1992,0.512
+Winnipeg Jets,1992,0.476
+Mighty Ducks of Anaheim,1993,0.393
+Boston Bruins,1993,0.5
+Buffalo Sabres,1993,0.512
+Calgary Flames,1993,0.5
+Chicago Blackhawks,1993,0.464
+Dallas Stars,1993,0.5
+Detroit Red Wings,1993,0.548
+Edmonton Oilers,1993,0.298
+Florida Panthers,1993,0.393
+Hartford Whalers,1993,0.321
+Los Angeles Kings,1993,0.321
+Montreal Canadiens,1993,0.488
+New Jersey Devils,1993,0.56
+New York Islanders,1993,0.429
+New York Rangers,1993,0.619
+Ottawa Senators,1993,0.167
+Philadelphia Flyers,1993,0.417
+Pittsburgh Penguins,1993,0.524
+Quebec Nordiques,1993,0.405
+San Jose Sharks,1993,0.393
+St. Louis Blues,1993,0.476
+Tampa Bay Lightning,1993,0.357
+Toronto Maple Leafs,1993,0.512
+Vancouver Canucks,1993,0.488
+Washington Capitals,1993,0.464
+Winnipeg Jets,1993,0.286
+Mighty Ducks of Anaheim,1994,0.333
+Boston Bruins,1994,0.562
+Buffalo Sabres,1994,0.458
+Calgary Flames,1994,0.5
+Chicago Blackhawks,1994,0.5
+Dallas Stars,1994,0.354
+Detroit Red Wings,1994,0.688
+Edmonton Oilers,1994,0.354
+Florida Panthers,1994,0.417
+Hartford Whalers,1994,0.396
+Los Angeles Kings,1994,0.333
+Montreal Canadiens,1994,0.375
+New Jersey Devils,1994,0.458
+New York Islanders,1994,0.312
+New York Rangers,1994,0.458
+Ottawa Senators,1994,0.188
+Philadelphia Flyers,1994,0.583
+Pittsburgh Penguins,1994,0.604
+Quebec Nordiques,1994,0.625
+San Jose Sharks,1994,0.396
+St. Louis Blues,1994,0.583
+Tampa Bay Lightning,1994,0.354
+Toronto Maple Leafs,1994,0.438
+Vancouver Canucks,1994,0.375
+Washington Capitals,1994,0.458
+Winnipeg Jets,1994,0.333
+Mighty Ducks of Anaheim,1995,0.427
+Boston Bruins,1995,0.488
+Buffalo Sabres,1995,0.402
+Calgary Flames,1995,0.415
+Chicago Blackhawks,1995,0.488
+Colorado Avalanche,1995,0.573
+Dallas Stars,1995,0.317
+Detroit Red Wings,1995,0.756
+Edmonton Oilers,1995,0.366
+Florida Panthers,1995,0.5
+Hartford Whalers,1995,0.415
+Los Angeles Kings,1995,0.293
+Montreal Canadiens,1995,0.488
+New Jersey Devils,1995,0.451
+New York Islanders,1995,0.268
+New York Rangers,1995,0.5
+Ottawa Senators,1995,0.22
+Philadelphia Flyers,1995,0.549
+Pittsburgh Penguins,1995,0.598
+San Jose Sharks,1995,0.244
+St. Louis Blues,1995,0.39
+Tampa Bay Lightning,1995,0.463
+Toronto Maple Leafs,1995,0.415
+Vancouver Canucks,1995,0.39
+Washington Capitals,1995,0.476
+Winnipeg Jets,1995,0.439
+Mighty Ducks of Anaheim,1996,0.439
+Boston Bruins,1996,0.317
+Buffalo Sabres,1996,0.488
+Calgary Flames,1996,0.39
+Chicago Blackhawks,1996,0.415
+Colorado Avalanche,1996,0.598
+Dallas Stars,1996,0.585
+Detroit Red Wings,1996,0.463
+Edmonton Oilers,1996,0.439
+Florida Panthers,1996,0.427
+Hartford Whalers,1996,0.39
+Los Angeles Kings,1996,0.341
+Montreal Canadiens,1996,0.378
+New Jersey Devils,1996,0.549
+New York Islanders,1996,0.354
+New York Rangers,1996,0.463
+Ottawa Senators,1996,0.378
+Philadelphia Flyers,1996,0.549
+Phoenix Coyotes,1996,0.463
+Pittsburgh Penguins,1996,0.463
+San Jose Sharks,1996,0.329
+St. Louis Blues,1996,0.439
+Tampa Bay Lightning,1996,0.39
+Toronto Maple Leafs,1996,0.366
+Vancouver Canucks,1996,0.427
+Washington Capitals,1996,0.402
+Mighty Ducks of Anaheim,1997,0.317
+Boston Bruins,1997,0.476
+Buffalo Sabres,1997,0.439
+Calgary Flames,1997,0.317
+Carolina Hurricanes,1997,0.402
+Chicago Blackhawks,1997,0.366
+Colorado Avalanche,1997,0.476
+Dallas Stars,1997,0.598
+Detroit Red Wings,1997,0.537
+Edmonton Oilers,1997,0.427
+Florida Panthers,1997,0.293
+Los Angeles Kings,1997,0.463
+Montreal Canadiens,1997,0.451
+New Jersey Devils,1997,0.585
+New York Islanders,1997,0.366
+New York Rangers,1997,0.305
+Ottawa Senators,1997,0.415
+Philadelphia Flyers,1997,0.512
+Phoenix Coyotes,1997,0.427
+Pittsburgh Penguins,1997,0.488
+San Jose Sharks,1997,0.415
+St. Louis Blues,1997,0.549
+Tampa Bay Lightning,1997,0.207
+Toronto Maple Leafs,1997,0.366
+Vancouver Canucks,1997,0.305
+Washington Capitals,1997,0.488
+Mighty Ducks of Anaheim,1998,0.427
+Boston Bruins,1998,0.476
+Buffalo Sabres,1998,0.451
+Calgary Flames,1998,0.366
+Carolina Hurricanes,1998,0.415
+Chicago Blackhawks,1998,0.354
+Colorado Avalanche,1998,0.537
+Dallas Stars,1998,0.622
+Detroit Red Wings,1998,0.524
+Edmonton Oilers,1998,0.402
+Florida Panthers,1998,0.366
+Los Angeles Kings,1998,0.39
+Montreal Canadiens,1998,0.39
+Nashville Predators,1998,0.341
+New Jersey Devils,1998,0.573
+New York Islanders,1998,0.293
+New York Rangers,1998,0.402
+Ottawa Senators,1998,0.537
+Philadelphia Flyers,1998,0.451
+Phoenix Coyotes,1998,0.476
+Pittsburgh Penguins,1998,0.463
+San Jose Sharks,1998,0.378
+St. Louis Blues,1998,0.451
+Tampa Bay Lightning,1998,0.232
+Toronto Maple Leafs,1998,0.549
+Vancouver Canucks,1998,0.28
+Washington Capitals,1998,0.378
+Mighty Ducks of Anaheim,1999,0.415
+Atlanta Thrashers,1999,0.171
+Boston Bruins,1999,0.293
+Buffalo Sabres,1999,0.427
+Calgary Flames,1999,0.378
+Carolina Hurricanes,1999,0.451
+Chicago Blackhawks,1999,0.402
+Colorado Avalanche,1999,0.512
+Dallas Stars,1999,0.524
+Detroit Red Wings,1999,0.585
+Edmonton Oilers,1999,0.39
+Florida Panthers,1999,0.524
+Los Angeles Kings,1999,0.476
+Montreal Canadiens,1999,0.427
+Nashville Predators,1999,0.341
+New Jersey Devils,1999,0.549
+New York Islanders,1999,0.293
+New York Rangers,1999,0.354
+Ottawa Senators,1999,0.5
+Philadelphia Flyers,1999,0.549
+Phoenix Coyotes,1999,0.476
+Pittsburgh Penguins,1999,0.451
+San Jose Sharks,1999,0.427
+St. Louis Blues,1999,0.622
+Tampa Bay Lightning,1999,0.232
+Toronto Maple Leafs,1999,0.549
+Vancouver Canucks,1999,0.366
+Washington Capitals,1999,0.537
+Mighty Ducks of Anaheim,2000,0.305
+Atlanta Thrashers,2000,0.28
+Boston Bruins,2000,0.439
+Buffalo Sabres,2000,0.561
+Calgary Flames,2000,0.329
+Carolina Hurricanes,2000,0.463
+Columbus Blue Jackets,2000,0.341
+Chicago Blackhawks,2000,0.354
+Colorado Avalanche,2000,0.634
+Dallas Stars,2000,0.585
+Detroit Red Wings,2000,0.598
+Edmonton Oilers,2000,0.476
+Florida Panthers,2000,0.268
+Los Angeles Kings,2000,0.463
+Minnesota Wild,2000,0.305
+Montreal Canadiens,2000,0.341
+Nashville Predators,2000,0.415
+New Jersey Devils,2000,0.585
+New York Islanders,2000,0.256
+New York Rangers,2000,0.402
+Ottawa Senators,2000,0.585
+Philadelphia Flyers,2000,0.524
+Phoenix Coyotes,2000,0.427
+Pittsburgh Penguins,2000,0.512
+San Jose Sharks,2000,0.488
+St. Louis Blues,2000,0.524
+Tampa Bay Lightning,2000,0.293
+Toronto Maple Leafs,2000,0.451
+Vancouver Canucks,2000,0.439
+Washington Capitals,2000,0.5
+Mighty Ducks of Anaheim,2001,0.354
+Atlanta Thrashers,2001,0.232
+Boston Bruins,2001,0.524
+Buffalo Sabres,2001,0.427
+Calgary Flames,2001,0.39
+Carolina Hurricanes,2001,0.427
+Columbus Blue Jackets,2001,0.268
+Chicago Blackhawks,2001,0.5
+Colorado Avalanche,2001,0.549
+Dallas Stars,2001,0.439
+Detroit Red Wings,2001,0.622
+Edmonton Oilers,2001,0.463
+Florida Panthers,2001,0.268
+Los Angeles Kings,2001,0.488
+Minnesota Wild,2001,0.317
+Montreal Canadiens,2001,0.439
+Nashville Predators,2001,0.341
+New Jersey Devils,2001,0.5
+New York Islanders,2001,0.512
+New York Rangers,2001,0.439
+Ottawa Senators,2001,0.476
+Philadelphia Flyers,2001,0.512
+Phoenix Coyotes,2001,0.488
+Pittsburgh Penguins,2001,0.341
+San Jose Sharks,2001,0.537
+St. Louis Blues,2001,0.524
+Tampa Bay Lightning,2001,0.329
+Toronto Maple Leafs,2001,0.524
+Vancouver Canucks,2001,0.512
+Washington Capitals,2001,0.439
+Mighty Ducks of Anaheim,2002,0.488
+Atlanta Thrashers,2002,0.378
+Boston Bruins,2002,0.439
+Buffalo Sabres,2002,0.329
+Calgary Flames,2002,0.354
+Carolina Hurricanes,2002,0.268
+Columbus Blue Jackets,2002,0.354
+Chicago Blackhawks,2002,0.366
+Colorado Avalanche,2002,0.512
+Dallas Stars,2002,0.561
+Detroit Red Wings,2002,0.585
+Edmonton Oilers,2002,0.439
+Florida Panthers,2002,0.293
+Los Angeles Kings,2002,0.402
+Minnesota Wild,2002,0.512
+Montreal Canadiens,2002,0.366
+Nashville Predators,2002,0.329
+New Jersey Devils,2002,0.561
+New York Islanders,2002,0.427
+New York Rangers,2002,0.39
+Ottawa Senators,2002,0.634
+Philadelphia Flyers,2002,0.549
+Phoenix Coyotes,2002,0.378
+Pittsburgh Penguins,2002,0.329
+San Jose Sharks,2002,0.341
+St. Louis Blues,2002,0.5
+Tampa Bay Lightning,2002,0.439
+Toronto Maple Leafs,2002,0.537
+Vancouver Canucks,2002,0.549
+Washington Capitals,2002,0.476
+Mighty Ducks of Anaheim,2003,0.354
+Atlanta Thrashers,2003,0.402
+Boston Bruins,2003,0.5
+Buffalo Sabres,2003,0.451
+Calgary Flames,2003,0.512
+Carolina Hurricanes,2003,0.341
+Columbus Blue Jackets,2003,0.305
+Chicago Blackhawks,2003,0.244
+Colorado Avalanche,2003,0.488
+Dallas Stars,2003,0.5
+Detroit Red Wings,2003,0.585
+Edmonton Oilers,2003,0.439
+Florida Panthers,2003,0.341
+Los Angeles Kings,2003,0.341
+Minnesota Wild,2003,0.366
+Montreal Canadiens,2003,0.5
+Nashville Predators,2003,0.463
+New Jersey Devils,2003,0.524
+New York Islanders,2003,0.463
+New York Rangers,2003,0.329
+Ottawa Senators,2003,0.524
+Philadelphia Flyers,2003,0.488
+Phoenix Coyotes,2003,0.268
+Pittsburgh Penguins,2003,0.28
+San Jose Sharks,2003,0.524
+St. Louis Blues,2003,0.476
+Tampa Bay Lightning,2003,0.561
+Toronto Maple Leafs,2003,0.549
+Vancouver Canucks,2003,0.524
+Washington Capitals,2003,0.28
+Mighty Ducks of Anaheim,2005,0.524
+Atlanta Thrashers,2005,0.5
+Boston Bruins,2005,0.354
+Buffalo Sabres,2005,0.634
+Calgary Flames,2005,0.561
+Carolina Hurricanes,2005,0.634
+Columbus Blue Jackets,2005,0.427
+Chicago Blackhawks,2005,0.317
+Colorado Avalanche,2005,0.524
+Dallas Stars,2005,0.646
+Detroit Red Wings,2005,0.707
+Edmonton Oilers,2005,0.5
+Florida Panthers,2005,0.451
+Los Angeles Kings,2005,0.512
+Minnesota Wild,2005,0.463
+Montreal Canadiens,2005,0.512
+Nashville Predators,2005,0.598
+New Jersey Devils,2005,0.561
+New York Islanders,2005,0.439
+New York Rangers,2005,0.537
+Ottawa Senators,2005,0.634
+Philadelphia Flyers,2005,0.549
+Phoenix Coyotes,2005,0.463
+Pittsburgh Penguins,2005,0.268
+San Jose Sharks,2005,0.537
+St. Louis Blues,2005,0.256
+Tampa Bay Lightning,2005,0.524
+Toronto Maple Leafs,2005,0.5
+Vancouver Canucks,2005,0.512
+Washington Capitals,2005,0.354
+Anaheim Ducks,2006,0.585
+Atlanta Thrashers,2006,0.524
+Boston Bruins,2006,0.427
+Buffalo Sabres,2006,0.646
+Calgary Flames,2006,0.524
+Carolina Hurricanes,2006,0.488
+Columbus Blue Jackets,2006,0.402
+Chicago Blackhawks,2006,0.378
+Colorado Avalanche,2006,0.537
+Dallas Stars,2006,0.61
+Detroit Red Wings,2006,0.61
+Edmonton Oilers,2006,0.39
+Florida Panthers,2006,0.427
+Los Angeles Kings,2006,0.329
+Minnesota Wild,2006,0.585
+Montreal Canadiens,2006,0.512
+Nashville Predators,2006,0.622
+New Jersey Devils,2006,0.598
+New York Islanders,2006,0.488
+New York Rangers,2006,0.512
+Ottawa Senators,2006,0.585
+Philadelphia Flyers,2006,0.268
+Phoenix Coyotes,2006,0.378
+Pittsburgh Penguins,2006,0.573
+San Jose Sharks,2006,0.622
+St. Louis Blues,2006,0.415
+Tampa Bay Lightning,2006,0.537
+Toronto Maple Leafs,2006,0.488
+Vancouver Canucks,2006,0.598
+Washington Capitals,2006,0.341
+Anaheim Ducks,2007,0.573
+Atlanta Thrashers,2007,0.415
+Boston Bruins,2007,0.5
+Buffalo Sabres,2007,0.476
+Calgary Flames,2007,0.512
+Carolina Hurricanes,2007,0.524
+Columbus Blue Jackets,2007,0.415
+Chicago Blackhawks,2007,0.488
+Colorado Avalanche,2007,0.537
+Dallas Stars,2007,0.549
+Detroit Red Wings,2007,0.659
+Edmonton Oilers,2007,0.5
+Florida Panthers,2007,0.463
+Los Angeles Kings,2007,0.39
+Minnesota Wild,2007,0.537
+Montreal Canadiens,2007,0.573
+Nashville Predators,2007,0.5
+New Jersey Devils,2007,0.561
+New York Islanders,2007,0.427
+New York Rangers,2007,0.512
+Ottawa Senators,2007,0.524
+Philadelphia Flyers,2007,0.512
+Phoenix Coyotes,2007,0.463
+Pittsburgh Penguins,2007,0.573
+San Jose Sharks,2007,0.598
+St. Louis Blues,2007,0.402
+Tampa Bay Lightning,2007,0.378
+Toronto Maple Leafs,2007,0.439
+Vancouver Canucks,2007,0.476
+Washington Capitals,2007,0.524
+Anaheim Ducks,2008,0.512
+Atlanta Thrashers,2008,0.427
+Boston Bruins,2008,0.646
+Buffalo Sabres,2008,0.5
+Calgary Flames,2008,0.561
+Carolina Hurricanes,2008,0.549
+Columbus Blue Jackets,2008,0.5
+Chicago Blackhawks,2008,0.561
+Colorado Avalanche,2008,0.39
+Dallas Stars,2008,0.439
+Detroit Red Wings,2008,0.622
+Edmonton Oilers,2008,0.463
+Florida Panthers,2008,0.5
+Los Angeles Kings,2008,0.415
+Minnesota Wild,2008,0.488
+Montreal Canadiens,2008,0.5
+Nashville Predators,2008,0.488
+New Jersey Devils,2008,0.622
+New York Islanders,2008,0.317
+New York Rangers,2008,0.524
+Ottawa Senators,2008,0.439
+Philadelphia Flyers,2008,0.537
+Phoenix Coyotes,2008,0.439
+Pittsburgh Penguins,2008,0.549
+San Jose Sharks,2008,0.646
+St. Louis Blues,2008,0.5
+Tampa Bay Lightning,2008,0.293
+Toronto Maple Leafs,2008,0.415
+Vancouver Canucks,2008,0.549
+Washington Capitals,2008,0.61
+Anaheim Ducks,2009,0.476
+Atlanta Thrashers,2009,0.427
+Boston Bruins,2009,0.476
+Buffalo Sabres,2009,0.549
+Calgary Flames,2009,0.488
+Carolina Hurricanes,2009,0.427
+Columbus Blue Jackets,2009,0.39
+Chicago Blackhawks,2009,0.634
+Colorado Avalanche,2009,0.524
+Dallas Stars,2009,0.451
+Detroit Red Wings,2009,0.537
+Edmonton Oilers,2009,0.329
+Florida Panthers,2009,0.39
+Los Angeles Kings,2009,0.561
+Minnesota Wild,2009,0.463
+Montreal Canadiens,2009,0.476
+Nashville Predators,2009,0.573
+New Jersey Devils,2009,0.585
+New York Islanders,2009,0.415
+New York Rangers,2009,0.463
+Ottawa Senators,2009,0.537
+Philadelphia Flyers,2009,0.5
+Phoenix Coyotes,2009,0.61
+Pittsburgh Penguins,2009,0.573
+San Jose Sharks,2009,0.622
+St. Louis Blues,2009,0.488
+Tampa Bay Lightning,2009,0.415
+Toronto Maple Leafs,2009,0.366
+Vancouver Canucks,2009,0.598
+Washington Capitals,2009,0.659
+Anaheim Ducks,2010,0.573
+Atlanta Thrashers,2010,0.415
+Boston Bruins,2010,0.561
+Buffalo Sabres,2010,0.524
+Calgary Flames,2010,0.5
+Carolina Hurricanes,2010,0.488
+Columbus Blue Jackets,2010,0.415
+Chicago Blackhawks,2010,0.537
+Colorado Avalanche,2010,0.366
+Dallas Stars,2010,0.512
+Detroit Red Wings,2010,0.573
+Edmonton Oilers,2010,0.305
+Florida Panthers,2010,0.366
+Los Angeles Kings,2010,0.561
+Minnesota Wild,2010,0.476
+Montreal Canadiens,2010,0.537
+Nashville Predators,2010,0.537
+New Jersey Devils,2010,0.463
+New York Islanders,2010,0.366
+New York Rangers,2010,0.537
+Ottawa Senators,2010,0.39
+Philadelphia Flyers,2010,0.573
+Phoenix Coyotes,2010,0.524
+Pittsburgh Penguins,2010,0.598
+San Jose Sharks,2010,0.585
+St. Louis Blues,2010,0.463
+Tampa Bay Lightning,2010,0.561
+Toronto Maple Leafs,2010,0.451
+Vancouver Canucks,2010,0.659
+Washington Capitals,2010,0.585
+Anaheim Ducks,2011,0.415
+Boston Bruins,2011,0.598
+Buffalo Sabres,2011,0.476
+Calgary Flames,2011,0.451
+Carolina Hurricanes,2011,0.402
+Columbus Blue Jackets,2011,0.354
+Chicago Blackhawks,2011,0.549
+Colorado Avalanche,2011,0.5
+Dallas Stars,2011,0.512
+Detroit Red Wings,2011,0.585
+Edmonton Oilers,2011,0.39
+Florida Panthers,2011,0.463
+Los Angeles Kings,2011,0.488
+Minnesota Wild,2011,0.427
+Montreal Canadiens,2011,0.378
+Nashville Predators,2011,0.585
+New Jersey Devils,2011,0.585
+New York Islanders,2011,0.415
+New York Rangers,2011,0.622
+Ottawa Senators,2011,0.5
+Philadelphia Flyers,2011,0.573
+Phoenix Coyotes,2011,0.512
+Pittsburgh Penguins,2011,0.622
+San Jose Sharks,2011,0.524
+St. Louis Blues,2011,0.598
+Tampa Bay Lightning,2011,0.463
+Toronto Maple Leafs,2011,0.427
+Vancouver Canucks,2011,0.622
+Washington Capitals,2011,0.512
+Winnipeg Jets,2011,0.451
