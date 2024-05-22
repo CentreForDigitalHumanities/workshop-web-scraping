@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 
-
 @dataclass
 class Turtles:
   family_name: str

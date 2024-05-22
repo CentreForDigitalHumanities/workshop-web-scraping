@@ -8,7 +8,6 @@ from dataclasses import dataclass
 import httpx
 import pandas as pd
 
-
 @dataclass
 class Movies:
   title: str
@@ -16,7 +15,6 @@ class Movies:
   awards: int
   nominations: int
   best_picture: bool
-
 
 base_url = "https://www.scrapethissite.com/pages/ajax-javascript/?ajax=true&year="
 year = 2010

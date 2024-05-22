@@ -8,13 +8,11 @@ import httpx
 import pandas as pd
 from bs4 import BeautifulSoup
 
-
 @dataclass
 class HockeyTeam:
   name: str
   year: int
   pct: float
-
 
 base_url = "https://www.scrapethissite.com/pages/forms/?page_num="
 hockeyteams = []
