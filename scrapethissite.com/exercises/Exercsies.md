@@ -1,1 +1,0 @@
-Follow the examples of the Scrape This Sites [Web Scraping Sandbox](https://www.scrapethissite.com/pages/) in the `exercises` folder.
